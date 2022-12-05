@@ -371,6 +371,7 @@ img{
 }
 .product_server_border p{
     margin-top: 20px;
+    line-height:30px;
     text-align: left;
 }
 .product_server_border img{
